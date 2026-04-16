@@ -1,4 +1,2 @@
 *node_modules
 *.env
-git config --global user.name "pothinaharika"
-git config --global user.email "harikapothina1902@gmail.com"
